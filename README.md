@@ -1,5 +1,7 @@
 # Blockcraft
 
+**▶ Play it in your browser: <https://stipo0.github.io/minecraft-clone/>**
+
 A Minecraft-style voxel sandbox that runs in the browser, built with **React**,
 **react-three-fiber** and **TypeScript**. Infinite-ish procedurally generated
 terrain, block breaking and placing, swimming, caves, trees — all rendered with
